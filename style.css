@@ -1,0 +1,17 @@
+.ui.borderless.topmenu {
+  border: none;
+  background-color: #ffff;
+  box-shadow: none;
+}
+.top-background {
+  background: url(http://hawaiianbrians.com/wp-content/uploads/2014/08/hawaiian-brians-landing.jpg ) no-repeat center center fixed;
+  height: 500px;
+  background-size: cover;
+  color:white;
+}
+
+.footer-background {
+  background-color: #252525;
+  padding-top:20px;
+  color:white;
+}
